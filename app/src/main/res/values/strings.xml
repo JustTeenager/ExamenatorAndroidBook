@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My ApplicationTetsintBook</string>
+    <string-array name="Mas">
+        <item>Math</item>
+        <item>Physics</item>
+        <item>Informatics</item>
+    </string-array>
+    <string name="ButtonText">Find exams!</string>
+    <string name="TextText">Have no chosen exams</string>
+</resources>
